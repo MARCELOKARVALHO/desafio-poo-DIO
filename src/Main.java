@@ -69,11 +69,5 @@ public class Main {
           System.out.println("Xp: " + devLuiz.calcularTotalXp());
 
 
-
-
-
-
-
-
     }
 }
